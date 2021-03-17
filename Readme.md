@@ -1,2 +1,2 @@
-## Linear Layout
-![](app/src/main/res/drawable/linear_layout.gif)
+## Relative Layout
+![](app/src/main/res/drawable/relative_layout.gif)
